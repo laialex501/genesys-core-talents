@@ -1,54 +1,54 @@
 {
-    "name": "genesys-core-talents",
-    "title": "Genesys Core Talents",
-    "description": "A module containing compendium packs for talents from the Genesys Core Rulebook",
-    "author": "Alex Lai",
-    "version": "1.0.0",
-    "minimumCoreVersion": "0.7.0",
-    "compatibleCoreVersion":"0.7.9",
-    "packs": [
-                {
-                  "name": "genesys-core-tier-1-talents",
-                  "label": "Genesys Core Tier 1 Talents",
-                  "system": "starwarsffg",
-                  "path": "packs/genesys-core-tier-1-talents.db",
-                  "entity": "Item",
-                  "module": "GenesysCoreTalents"
-                },
-                {
-                    "name": "genesys-core-tier-2-talents",
-                    "label": "Genesys Core Tier 2 Talents",
-                    "system": "starwarsffg",
-                    "path": "packs/genesys-core-tier-2-talents.db",
-                    "entity": "Item",
-                    "module": "GenesysCoreTalents"
-                  },
-                  {
-                    "name": "genesys-core-tier-3-talents",
-                    "label": "Genesys Core Tier 3 Talents",
-                    "system": "starwarsffg",
-                    "path": "packs/genesys-core-tier-3-talents.db",
-                    "entity": "Item",
-                    "module": "GenesysCoreTalents"
-                  },
-                  {
-                    "name": "genesys-core-tier-4-talents",
-                    "label": "Genesys Core Tier 4 Talents",
-                    "system": "starwarsffg",
-                    "path": "packs/genesys-core-tier-4-talents.db",
-                    "entity": "Item",
-                    "module": "GenesysCoreTalents"
-                  },
-                  {
-                    "name": "genesys-core-tier-5-talents",
-                    "label": "Genesys Core Tier 5 Talents",
-                    "system": "starwarsffg",
-                    "path": "packs/genesys-core-tier-5-talents.db",
-                    "entity": "Item",
-                    "module": "GenesysCoreTalents"
-                  }
-            ],
-    "url": "https://github.com/laialex501/genesys-core-talents",
-    "manifest": "https://github.com/laialex501/genesys-core-talents/raw/main/module.json",
-    "download": "https://github.com/laialex501/genesys-core-talents/archive/main.zip"
+  "name": "genesys-core-talents",
+  "title": "Genesys Core Talents",
+  "description": "A module containing compendium packs for talents from the Genesys Core Rulebook",
+  "author": "Alex Lai",
+  "version": "1.0.1",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.8",
+  "packs": [
+    {
+      "name": "genesys-core-tier-1-talents",
+      "label": "Genesys Core Tier 1 Talents",
+      "system": "starwarsffg",
+      "path": "packs/genesys-core-tier-1-talents.db",
+      "entity": "Item",
+      "module": "GenesysCoreTalents"
+    },
+    {
+      "name": "genesys-core-tier-2-talents",
+      "label": "Genesys Core Tier 2 Talents",
+      "system": "starwarsffg",
+      "path": "packs/genesys-core-tier-2-talents.db",
+      "entity": "Item",
+      "module": "GenesysCoreTalents"
+    },
+    {
+      "name": "genesys-core-tier-3-talents",
+      "label": "Genesys Core Tier 3 Talents",
+      "system": "starwarsffg",
+      "path": "packs/genesys-core-tier-3-talents.db",
+      "entity": "Item",
+      "module": "GenesysCoreTalents"
+    },
+    {
+      "name": "genesys-core-tier-4-talents",
+      "label": "Genesys Core Tier 4 Talents",
+      "system": "starwarsffg",
+      "path": "packs/genesys-core-tier-4-talents.db",
+      "entity": "Item",
+      "module": "GenesysCoreTalents"
+    },
+    {
+      "name": "genesys-core-tier-5-talents",
+      "label": "Genesys Core Tier 5 Talents",
+      "system": "starwarsffg",
+      "path": "packs/genesys-core-tier-5-talents.db",
+      "entity": "Item",
+      "module": "GenesysCoreTalents"
+    }
+  ],
+  "url": "https://github.com/laialex501/genesys-core-talents",
+  "manifest": "https://github.com/laialex501/genesys-core-talents/raw/main/module.json",
+  "download": "https://github.com/laialex501/genesys-core-talents/archive/main.zip"
 }
